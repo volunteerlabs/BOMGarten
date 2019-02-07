@@ -14,4 +14,15 @@ This project is on-going and still under active development. The primary purpose
 
 To use this Project clone the repository:
 
+```
+git clone https://github.com/volunteerlabs/BOMGarten.git
+
+```
+
+Then run the python script
+
+```
+python bomgarten.py
+
+```
 
