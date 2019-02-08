@@ -2,7 +2,7 @@
 
 ## THIS TOOL IS IN AN ALPHA STAGE AND IS NOT YET RECOMMENED FOR PRODUCTION USE
 
-BOMGarten is a KiCAD Bill of Materials Management and Scraper Tool.
+BOMGarten is a Bill of Materials (BOM) Management and Scraper Tool for KiCAD.
 
 This tool provides a GUI interface to more easily manage a Bill of Materials (BOM) in KiCAD. It is written in Python 2.7 using wxGlade.
 
