@@ -1,5 +1,8 @@
 # BOMGarten (ALPHA)
 
+![BOMGarten Main Image](https://raw.githubusercontent.com/volunteerlabs/BOMGarten/master/images/bomgarten.png)
+
+
 ## THIS TOOL IS IN AN ALPHA STAGE AND IS NOT YET RECOMMENED FOR PRODUCTION USE
 
 BOMGarten is a Bill of Materials (BOM) Management and Scraper Tool for KiCAD.
